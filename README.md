@@ -15,6 +15,10 @@
 
 
 
+https://github.com/daniilmight/Electronic-Scales-With-Touch-Control/assets/71521420/3d0d3935-92b9-4658-9280-8f43a5815bde
+
+
+
 ## Использованные библиотеки
 
 Для вывода изображения на экран использовалась библиотека - https://www.ofoghelec.com/download/sample/2698
